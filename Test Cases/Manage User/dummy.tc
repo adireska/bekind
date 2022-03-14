@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dummy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3241156e-d209-481d-8f1e-19a976c4b12c</testCaseGuid>
+   <variable>
+      <defaultValue>'14'</defaultValue>
+      <description></description>
+      <id>f427bcc8-5290-45c4-a473-f8b883474445</id>
+      <masked>false</masked>
+      <name>Province</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>e2fbf2e3-bb8f-4f7a-9211-e6f1d71100a0</id>
+      <masked>false</masked>
+      <name>City</name>
+   </variable>
+</TestCaseEntity>
